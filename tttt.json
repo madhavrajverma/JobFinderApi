@@ -1,0 +1,185 @@
+{
+    "title": "Software Developer",
+     "description": "Must be a full-stack developer, able to implement everything in a MEAN or MERN stack paradigm (MongoDB, Express, Angular and/or React, and Node.js).",
+     "email": "employeer1@gmail.com",
+     "address": "691, Delhi - Jaipur Expy, Silokhera, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001",
+     "company": "Google Inc",
+     "industry": [
+         "Information Technology"
+     ],
+     "jobType": "Internship",
+     "minEducation": "Bachelors",
+     "positions": 2,
+     "experience": "No Experience",
+     "salary": "155000",
+     "companyImage" : "https://res.cloudinary.com/dj5nxkcmj/image/upload/v1642109858/JobImage/google_rnbhc7.png"
+},
+
+{
+    "title": "Node JS  Expert Developer",
+     "description": "Must be a full-stack developer, able to implement everything in a MEAN or MERN stack paradigm (MongoDB, Express, Angular and/or React, and Node.js).",
+     "email": "employeer1@gmail.com",
+     "address": "Facebook Headquarters 1 Hacker Way Menlo Park, CA 94025",
+     "company": "Facebook",
+     "industry": [
+         "Information Technology"
+     ],
+     "jobType": "FullTime",
+     "minEducation": "Bachelors",
+     "positions": 5,
+     "experience": "No Experience",
+     "salary": "325000",
+      "companyImage": "https://res.cloudinary.com/dj5nxkcmj/image/upload/v1642109858/JobImage/facebook_aj8ujx.png "
+     }
+
+     
+
+
+     {
+        "title": "REACT JS DEVELOPERS",
+         "description": "Should have in-depth knowledge of JavaScript and React concepts, excellent front-end coding skills
+         Extensive knowledge of Java, HTML, 
+         CSS, jQuery, Angular, React.js or other js technologies
+         Good understanding of integration of REST APIs & Authentication services
+         Knowledge with code versioning tools such as Git, BitBucket
+         Exposure to CI/CD, Agile Methodology, JIRA tools
+         Strong problem solving and communication skills.",
+         "email": "employeer1@gmail.com",
+         "address": " Los Altos, California, United States",
+         "company": "Apple Inc",
+         "industry": [
+             "Information Technology"
+         ],
+         "jobType": "FullTime",
+         "minEducation": "Bachelors",
+         "positions": 5,
+         "experience": "1 Years - 2 Years",
+         "salary": "45000",
+          "companyImage": "https://res.cloudinary.com/dj5nxkcmj/image/upload/v1642109858/JobImage/apple_lfzu7w.png"
+         }
+
+
+         {
+            "title": "UI DEVELOPER",
+             "description": "Must have Hands on experiance in Ui Desing, Adboe XD,knockout,Require JS,css,html,ui development,ajax,html5,OJET.",
+             "email": "employeer1@gmail.com",
+             "address": "200 Olympic Dr, Stafford,VA,22554",
+             "company": "Netflix",
+             "industry": [
+                 "Information Technology"
+             ],
+             "jobType": "FullTime",
+             "minEducation": "Bachelors",
+             "positions": 5,
+             "experience": "1 Years - 2 Years",
+             "salary": "9000",
+              "companyImage": "https://res.cloudinary.com/dj5nxkcmj/image/upload/v1642109858/JobImage/netflix_qm727e.png"
+             }
+
+
+             {
+                "title": "Ios DEVELOPER",
+                 "description": "Must have Hands on experiance in Swift, SWiftUI,UIKIt,CoreData,Combine,Networking,ui development,Databases,html5.",
+                 "email": "employeer1@gmail.com",
+                 "address": "200 Olympic Dr, Stafford,VA,22554",
+                 "company": "Linked In",
+                 "industry": [
+                     "Information Technology"
+                 ],
+                 "jobType": "FullTime",
+                 "minEducation": "Bachelors",
+                 "positions": 5,
+                 "experience": "1 Years - 2 Years",
+                 "salary": "4000",
+                  "companyImage": "https://res.cloudinary.com/dj5nxkcmj/image/upload/v1642109858/JobImage/linkedin_v3zf5b.png"
+                 }
+
+
+                 {
+                    "title": ".Net DEVELOPER",
+                     "description": "Must have Hands on experiance in .Net, jquery,knockout,RequireJS,css,html,ui development,ajax,html5,OJET.",
+                     "email": "employeer1@gmail.com",
+                     "address": "200 Olympic Dr, Stafford,VA,22554",
+                     "company": "Paypal",
+                     "industry": [
+                         "Information Technology"
+                     ],
+                     "jobType": "FullTime",
+                     "minEducation": "Bachelors",
+                     "positions": 5,
+                     "experience": "1 Years - 2 Years",
+                     "salary": "5000",
+                      "companyImage": "https://res.cloudinary.com/dj5nxkcmj/image/upload/v1642109858/JobImage/paypal_aytsik.png"
+                     }
+
+
+                     {
+                        "title": "Android DEVELOPER",
+                         "description": "Must have Hands on experiance in JavaScript, jquery,knockout,RequireJS,css,html,ui development,ajax,html5,OJET.",
+                         "email": "employeer1@gmail.com",
+                         "address": "200 Olympic Dr, Stafford,VA,22554",
+                         "company": "Tinder",
+                         "industry": [
+                             "Information Technology"
+                         ],
+                         "jobType": "FullTime",
+                         "minEducation": "Bachelors",
+                         "positions": 5,
+                         "experience": "1 Years - 2 Years",
+                         "salary": "75000",
+                          "companyImage": "https://res.cloudinary.com/dj5nxkcmj/image/upload/v1642109859/JobImage/tinder_ag71d8.png"
+                         }
+
+
+                         {
+                            "title": "Senior Ios DEVELOPER",
+                             "description": "Must have Hands on experiance in JavaScript, jquery,knockout,RequireJS,css,html,ui development,ajax,html5,OJET.",
+                             "email": "employeer1@gmail.com",
+                             "address": "200 Olympic Dr, Stafford,VA,22554",
+                             "company": "Whats app Inc",
+                             "industry": [
+                                 "Information Technology"
+                             ],
+                             "jobType": "FullTime",
+                             "minEducation": "Bachelors",
+                             "positions": 5,
+                             "experience": "1 Years - 2 Years",
+                             "salary": "45000",
+                              "companyImage": "https://res.cloudinary.com/dj5nxkcmj/image/upload/v1642109859/JobImage/whatsapp_tpb5fd.png"
+                             }
+
+
+                             {
+                                "title": "Backend  DEVELOPER",
+                                 "description": "Must have Hands on experiance in JavaScript, jquery,knockout,RequireJS,css,html,ui development,ajax,html5,OJET.",
+                                 "email": "employeer1@gmail.com",
+                                 "address": "200 Olympic Dr, Stafford,VA,22554",
+                                 "company": "Twitter",
+                                 "industry": [
+                                     "Information Technology"
+                                 ],
+                                 "jobType": "FullTime",
+                                 "minEducation": "Bachelors",
+                                 "positions": 5,
+                                 "experience": "1 Years - 2 Years",
+                                 "salary": "45000",
+                                  "companyImage": "https://res.cloudinary.com/dj5nxkcmj/image/upload/v1642109859/JobImage/twitter_p04xfu.png"
+                                 }
+
+                                 {
+                                    "title": "Dev Ops DEVELOPER",
+                                     "description": "Must have Hands on experiance in JavaScript, jquery,knockout,RequireJS,css,html,ui development,ajax,html5,OJET.",
+                                     "email": "employeer1@gmail.com",
+                                     "address": "200 Olympic Dr, Stafford,VA,22554",
+                                     "company": "Spotify",
+                                     "industry": [
+                                         "Information Technology"
+                                     ],
+                                     "jobType": "FullTime",
+                                     "minEducation": "Bachelors",
+                                     "positions": 5,
+                                     "experience": "1 Years - 2 Years",
+                                     "salary": "45000",
+                                      "companyImage": "https://res.cloudinary.com/dj5nxkcmj/image/upload/v1642109859/JobImage/spotify_ayd9tv.png"
+                                     }
+         
