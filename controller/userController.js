@@ -173,7 +173,6 @@ exports.getAppliedJobs = catchAsyncErrors(async (req,res,next) => {
 //show all jobs published by employeer => /api/v1/jobs/published
 
 
-
 exports.getPublishedJobs = catchAsyncErrors(async (req,res,next) => {
     const jobs = await Job.find({user:req.user.id});
 
